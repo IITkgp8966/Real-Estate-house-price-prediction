@@ -1,0 +1,17 @@
+1. DecisionTree Model
+     Mean: 4.448066437342847
+     standard deviation: 0.6740486290691221
+     
+     
+ 2. LinearRegression Model
+     Mean: 5.043764705943486
+     standard deviation: 1.0835341751246421
+
+
+ 3.RandomForestRegression Model
+     Mean: 3.377843338457217
+     standard deviation: 0.682766524827901
+     
+     
+     RandomForestRegression Model IS give best performance.
+     
